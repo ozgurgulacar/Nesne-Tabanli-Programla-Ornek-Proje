@@ -1,0 +1,8 @@
+C:\Users\Özgür\Desktop\otomasyonformfotoğrafları\denemeler\OOP\FootballMatchSim\FootballMatchSim\bin\Debug\FootballMatchSim.exe.config
+C:\Users\Özgür\Desktop\otomasyonformfotoğrafları\denemeler\OOP\FootballMatchSim\FootballMatchSim\bin\Debug\FootballMatchSim.exe
+C:\Users\Özgür\Desktop\otomasyonformfotoğrafları\denemeler\OOP\FootballMatchSim\FootballMatchSim\bin\Debug\FootballMatchSim.pdb
+C:\Users\Özgür\Desktop\otomasyonformfotoğrafları\denemeler\OOP\FootballMatchSim\FootballMatchSim\obj\Debug\FootballMatchSim.csproj.AssemblyReference.cache
+C:\Users\Özgür\Desktop\otomasyonformfotoğrafları\denemeler\OOP\FootballMatchSim\FootballMatchSim\obj\Debug\FootballMatchSim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Özgür\Desktop\otomasyonformfotoğrafları\denemeler\OOP\FootballMatchSim\FootballMatchSim\obj\Debug\FootballMatchSim.csproj.CoreCompileInputs.cache
+C:\Users\Özgür\Desktop\otomasyonformfotoğrafları\denemeler\OOP\FootballMatchSim\FootballMatchSim\obj\Debug\FootballMatchSim.exe
+C:\Users\Özgür\Desktop\otomasyonformfotoğrafları\denemeler\OOP\FootballMatchSim\FootballMatchSim\obj\Debug\FootballMatchSim.pdb
